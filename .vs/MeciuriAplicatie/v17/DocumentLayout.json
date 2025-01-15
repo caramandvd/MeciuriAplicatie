@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\pages\\sportteams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:pages\\sportteams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\data\\meciuriaplicatiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:data\\meciuriaplicatiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\models\\sportteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:models\\sportteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|c:\\users\\davidcaraman\\desktop\\proiect medii\\meciuriaplicatie\\migrations\\20250115154559_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BADB05A-820B-4F3C-B0C7-B228760FCA08}|MeciuriAplicatie.csproj|solutionrelative:migrations\\20250115154559_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\SportTeams\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\SportTeams\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\SportTeams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:45:39.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\SportTeams\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:39.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Index.cshtml",
+              "RelativeToolTip": "Pages\\SportTeams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:45:39.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Details.cshtml",
+              "RelativeToolTip": "Pages\\SportTeams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:45:38.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\SportTeams\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:38.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\SportTeams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:45:38.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\SportTeams\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250115154559_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Migrations\\20250115154559_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250115154559_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Migrations\\20250115154559_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250115154559_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SportTeams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Pages\\SportTeams\\Create.cshtml",
+              "RelativeToolTip": "Pages\\SportTeams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:45:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeciuriAplicatieContext.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Data\\MeciuriAplicatieContext.cs",
+              "RelativeDocumentMoniker": "Data\\MeciuriAplicatieContext.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Data\\MeciuriAplicatieContext.cs",
+              "RelativeToolTip": "Data\\MeciuriAplicatieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:45:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SportTeam.cs",
+              "DocumentMoniker": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Models\\SportTeam.cs",
+              "RelativeDocumentMoniker": "Models\\SportTeam.cs",
+              "ToolTip": "C:\\Users\\DavidCaraman\\Desktop\\Proiect Medii\\MeciuriAplicatie\\Models\\SportTeam.cs",
+              "RelativeToolTip": "Models\\SportTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:44:29.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
